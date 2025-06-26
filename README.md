@@ -1,7 +1,7 @@
 # 🛒 Techify – E-Commerce Mobile App (Flutter + Firebase)
 
 A sleek, modern, and high-performance **E-Commerce mobile app** built using Flutter and Firebase — tailored for tech lovers.  
-Shop a wide variety of tech products like **Mobiles, Laptops, Keyboards, Mice, USBs**, and more — all in one app.
+Shop a wide variety of tech products like **Mobiles, Laptops, Keyboards, Mouses, USBs**, and more — all in one app.
 
 ---
 
