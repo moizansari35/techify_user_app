@@ -74,6 +74,7 @@ class _OrderScreenState extends State<OrderScreen> {
                               Container(
                                   height: context.screenHeight / 6,
                                   width: context.screenWidth / 3,
+                                  // ignore: deprecated_member_use
                                   color: MyColors.primaryColor.withOpacity(0.5),
                                   child: Image.network(
                                     orderModel.products[0].image,
@@ -201,6 +202,7 @@ class _OrderScreenState extends State<OrderScreen> {
                                                   width:
                                                       context.screenWidth / 4,
                                                   color: MyColors.primaryColor
+                                                      // ignore: deprecated_member_use
                                                       .withOpacity(0.5),
                                                   child: Image.network(
                                                     singleProduct.image,

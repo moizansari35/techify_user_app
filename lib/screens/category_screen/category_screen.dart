@@ -97,6 +97,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
                                 return Container(
                                   decoration: BoxDecoration(
                                     color:
+                                        // ignore: deprecated_member_use
                                         MyColors.primaryColor.withOpacity(0.3),
                                     borderRadius: BorderRadius.circular(10.0),
                                   ),

@@ -139,7 +139,10 @@ class _CartItemCheckoutScreenState extends State<CartItemCheckoutScreen> {
                 if (value) {
                   Future.delayed(const Duration(seconds: 2), () {
                     Routes.routesInstance.push(
-                        widget: const CustomBottomNavBar(), context: context);
+                        // ignore: use_build_context_synchronously
+                        widget: const CustomBottomNavBar(),
+                        // ignore: use_build_context_synchronously
+                        context: context);
                   });
                 }
               },

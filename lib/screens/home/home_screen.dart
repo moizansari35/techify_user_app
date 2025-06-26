@@ -128,7 +128,6 @@ class _HomeScreenState extends State<HomeScreen> {
                                             width: context.screenWidth * 0.2,
                                             child: Image.network(e.image),
                                           ),
-                                          
                                         ),
                                       ),
                                     ),
@@ -193,6 +192,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                     return Container(
                                       decoration: BoxDecoration(
                                         color: MyColors.primaryColor
+                                            // ignore: deprecated_member_use
                                             .withOpacity(0.3),
                                         borderRadius:
                                             BorderRadius.circular(10.0),
@@ -282,6 +282,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                         return Container(
                                           decoration: BoxDecoration(
                                             color: MyColors.primaryColor
+                                                // ignore: deprecated_member_use
                                                 .withOpacity(0.3),
                                             borderRadius:
                                                 BorderRadius.circular(10.0),

@@ -31,6 +31,7 @@ class _SingleFavouriteItemState extends State<SingleFavouriteItem> {
           Expanded(
             child: Container(
                 height: context.screenHeight / 5,
+                // ignore: deprecated_member_use
                 color: MyColors.primaryColor.withOpacity(0.5),
                 child: Image.network(
                   widget.singleProduct.image,
