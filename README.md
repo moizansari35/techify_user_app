@@ -31,31 +31,31 @@ Shop a wide variety of tech products like **Mobiles, Laptops, Keyboards, Mice, U
 <table width="100%" align="center" cellspacing="10">
   <tr>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup1.png" width="100%" alt="Home & Categories" /><br/>
+      <img src="assets/screenshots/mockup1.png" width="100%" alt="Home & Categories" /><br/>
       <b>🏠 Home & Categories</b><br/>
       <sub>Search and browse trending tech products by category — fast and easy.</sub>
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup2.png" width="100%" alt="Product Details" /><br/>
+      <img src="assets/screenshots/mockup2.png" width="100%" alt="Product Details" /><br/>
       <b>🔎 Product Details</b><br/>
       <sub>Get all product info — title, price, image, and description before adding to cart or wishlist.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup3.png" width="100%" alt="Cart & Checkout" /><br/>
+      <img src="assets/screenshots/mockup3.png" width="100%" alt="Cart & Checkout" /><br/>
       <b>🛒 Cart & Checkout</b><br/>
       <sub>View your cart items and place orders with Cash on Delivery (COD) option.</sub>
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup4.png" width="100%" alt="My Orders & Wishlist" /><br/>
+      <img src="assets/screenshots/mockup4.png" width="100%" alt="My Orders & Wishlist" /><br/>
       <b>📦 My Orders & Wishlist</b><br/>
       <sub>Track orders, manage wishlist, and keep your tech items organized.</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup5.png" width="40%" alt="Profile Screen" /><br/>
+      <img src="assets/screenshots/mockup5.png" width="40%" alt="Profile Screen" /><br/>
       <b>👤 User Profile & Settings</b><br/>
       <sub>View account info, change password, and manage your app settings.</sub>
     </td>
