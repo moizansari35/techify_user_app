@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801673423003",
+    "project_id": "techify-7c45b",
+    "storage_bucket": "techify-7c45b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801673423003:android:cebdf466257d08dfbd3e3e",
+        "android_client_info": {
+          "package_name": "com.example.techify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXP8hMHyHw-zpJaNKi--T2E47A4yOifxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
