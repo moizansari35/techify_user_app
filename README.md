@@ -31,33 +31,33 @@ Shop a wide variety of tech products like **Mobiles, Laptops, Keyboards, Mouses,
 <table width="100%" align="center" cellspacing="10">
   <tr>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="assets/screenshots/mockup1.png" width="100%" alt="Home & Categories" /><br/>
-      <b>🏠 Home & Categories</b><br/>
-      <sub>Search and browse trending tech products by category — fast and easy.</sub>
+      <img src="assets/screenshots/mockup2.png" width="100%" alt="Splash & Home" /><br/>
+      <b>🚀 Splash, Welcome & Home</b><br/>
+      <sub>Start with a clean splash and welcome experience before landing on a fast, intuitive home screen showcasing featured products.</sub>
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="assets/screenshots/mockup2.png" width="100%" alt="Product Details" /><br/>
-      <b>🔎 Product Details</b><br/>
-      <sub>Get all product info — title, price, image, and description before adding to cart or wishlist.</sub>
+      <img src="assets/screenshots/mockup1.png" width="100%" alt="Auth Screens" /><br/>
+      <b>🔐 Sign In / Sign Up</b><br/>
+      <sub>Simplified onboarding with Firebase Authentication — register or log in securely to begin shopping.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="assets/screenshots/mockup3.png" width="100%" alt="Cart & Checkout" /><br/>
-      <b>🛒 Cart & Checkout</b><br/>
-      <sub>View your cart items and place orders with Cash on Delivery (COD) option.</sub>
+      <img src="assets/screenshots/mockup4.png" width="100%" alt="Products & Search" /><br/>
+      <b>🔎 Product Listing, Details & Search</b><br/>
+      <sub>Discover products by category, view detailed descriptions, and find exactly what you need using live search.</sub>
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="assets/screenshots/mockup4.png" width="100%" alt="My Orders & Wishlist" /><br/>
-      <b>📦 My Orders & Wishlist</b><br/>
-      <sub>Track orders, manage wishlist, and keep your tech items organized.</sub>
+      <img src="assets/screenshots/mockup3.png" width="100%" alt="Cart & Orders" /><br/>
+      <b>🛒 My Cart, Checkout & Orders</b><br/>
+      <sub>Manage cart items, place orders via Cash on Delivery, and keep track of all your tech purchases.</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="assets/screenshots/mockup5.png" width="40%" alt="Profile Screen" /><br/>
-      <b>👤 User Profile & Settings</b><br/>
-      <sub>View account info, change password, and manage your app settings.</sub>
+      <img src="assets/screenshots/mockup5.png" width="40%" alt="Profile & Wishlist" /><br/>
+      <b>👤 User Profile, Wishlist & Settings</b><br/>
+      <sub>View account info, manage your wishlist, update passwords, and control your in-app preferences.</sub>
     </td>
   </tr>
 </table>
