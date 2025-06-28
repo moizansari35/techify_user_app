@@ -31,12 +31,12 @@ Shop a wide variety of tech products like **Mobiles, Laptops, Keyboards, Mouses,
 <table width="100%" align="center" cellspacing="10">
   <tr>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="assets/screenshots/mockup2.png" width="100%" alt="Splash & Home" /><br/>
+      <img src="assets/screenshots/mockup1.png" width="100%" alt="Splash & Home" /><br/>
       <b>🚀 Splash, Welcome & Home</b><br/>
       <sub>Start with a clean splash and welcome experience before landing on a fast, intuitive home screen showcasing featured products.</sub>
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="assets/screenshots/mockup1.png" width="100%" alt="Auth Screens" /><br/>
+      <img src="assets/screenshots/mockup2.png" width="100%" alt="Auth Screens" /><br/>
       <b>🔐 Sign In / Sign Up</b><br/>
       <sub>Simplified onboarding with Firebase Authentication — register or log in securely to begin shopping.</sub>
     </td>
